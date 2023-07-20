@@ -8485,7 +8485,123 @@
       "navigationURL": "report/rainmaker-pt/PendingPTApplicationsReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
+    },
+    {
+    "id": 2047,
+    "name": "FSM BillingSlab Create",
+    "url": "/fsm-calculator/v1/billingSlab/_create",
+    "displayName": "FSM BillingSlab Create",
+    "orderNumber": 1,
+    "parentModule": "",
+    "enabled": false,
+    "serviceCode": "",
+    "code": "null",
+    "path": ""
+    },
+    {
+      "id": 2048,
+      "name": "FSM BillingSlab Update",
+      "url": "/fsm-calculator/v1/billingSlab/_update",
+      "displayName": "FSM BillingSlab Update",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2049,
+      "name": "FSM BillingSlab Search",
+      "url": "/fsm-calculator/v1/billingSlab/_search",
+      "displayName": "FSM BillingSlab Search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2050,
+      "name": "FSM Estimate",
+      "url": "/fsm-calculator/v1/_estimate",
+      "displayName": "FSM Estimate",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2051,
+      "name": "Create Vehicle Application",
+      "url": "/vehicle/v1/_create",
+      "displayName": "Create Vehicle",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "vehicle",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id":  2052,
+      "name": "Search Vehicle Application",
+      "url": "/vehicle/v1/_search",
+      "displayName": "Search  Vehicle",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "vehicle",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2053,
+      "name": "Vehicle Trip Search",
+       "url": "/vehicle/trip/v1/_search",
+      "displayName": "Vehicle Trip Search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2054,
+      "name": "Vehicle Trip Update",
+       "url": "/vehicle/trip/v1/_update",
+      "displayName": "Vehicle Trip Update",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2055,
+      "name": "Create Vendor/DSO",
+      "url": "/vendor/v1/_create",
+      "displayName": "Create Vehicle",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "vendor",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2056,
+      "name": "Search Vendor/DSO",
+      "url": "/vendor/v1/_search",
+      "displayName": "Search  Vendor",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "vendor",
+      "code": "null",
+      "path": ""
     }
-	  
+    
   ]
 }
